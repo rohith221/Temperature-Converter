@@ -1,0 +1,39 @@
+*{
+    font-style:serif ;
+    text-align:center;
+}
+.t1{
+    background-color:#C14242;
+    width:800px;
+    height:650px;
+    margin:auto;
+    margin-top:200px;
+    text-align:center;
+    color:white;
+    
+}
+
+h1{
+ padding-top:40px;
+}
+.he{
+    display:flex;
+}
+.screen{
+    margin-top:120px;
+    width:50%;
+    
+}
+.t3{
+    display:flex;
+}
+.cel{
+    padding-top:100px;
+    display:inline;
+    width:50%;
+}
+.btn{
+    margin:20px;
+}
+
+
